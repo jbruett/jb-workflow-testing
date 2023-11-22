@@ -1,4 +1,4 @@
-name: deployment
+name: terraform-deploy
 on:
   push:
     branches: [$default-branch]
